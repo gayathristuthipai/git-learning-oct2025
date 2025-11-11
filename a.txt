@@ -1,3 +1,3 @@
-user1 edited a.txt
-this is the second line
+user2 edited this file
+hello user2
 
